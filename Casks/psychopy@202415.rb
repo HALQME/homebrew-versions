@@ -1,4 +1,4 @@
-cask "psychopy" do
+cask "psychopy@202415" do
   version "2024.1.5"
   sha256 "98cbcef6ea40fba188b31e461ccd4232810d1dfb486ea722118ce1b1095253b7"
 
