@@ -12,7 +12,7 @@ cask "psychopy" do
     strategy :github_latest
   end
 
-  app "PsychoPy@2024.1.5.app"
+  app "PsychoPy.app"
 
   zap trash: [
     "~/.psychopy3",
